@@ -1,7 +1,7 @@
 # Plugin-anti-vpn-nova-life
 
 Ce plugin permet de détecter les joueurs utilisant vpn , proxy ou autres et de les déconnecter. 
-Il n'y a rien à faire il fonctionne dès que vous l ajoutez à votre serveur. Il faut télécharger le fichier dll "MS build"
+Il n'y a rien à faire il fonctionne dès que vous l ajoutez à votre serveur. Il faut télécharger le fichier dll.
 
 # Fiabilité 
 
